@@ -15,7 +15,8 @@ function startvideo() {
 
 startvideo();
 
-function booster() {
+
+/* function booster() {
 	var Response =	prompt("please,Type your name!");
 	alert("welcome" + ","+" " +Response + "."+ " " + "Please allow your camera" );
 }
@@ -30,6 +31,6 @@ var x = document.getElementById("myAudio");
 
 function playAudio() { 
   x.play(); 
-} 
+} */
 
 
